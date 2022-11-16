@@ -17,7 +17,7 @@ public class People implements Serializable {
 	public int id;
 
 	@JsonProperty("name")
-	public int name;
+	public String name;
 
 	public People() {
 	}

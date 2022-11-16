@@ -43,7 +43,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>enginerds.JetJob</mainClass>
+                            <mainClass>enginerds.hazelcast.cdc.mysql.JetJob</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
