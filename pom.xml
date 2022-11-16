@@ -4,7 +4,7 @@
    <modelVersion>4.0.0</modelVersion>
 
    <groupId>enginerds</groupId>
-   <artifactId>cdc-mysql-ingestion</artifactId>
+   <artifactId>enginerds-hazelcast-cdc-mysql</artifactId>
    <version>1.0-SNAPSHOT</version>
 
    <properties>
