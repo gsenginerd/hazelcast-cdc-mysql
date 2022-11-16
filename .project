@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>cdc-mysql-ingestion</name>
+	<name>enginerds-hazelcast-cdc-mysql</name>
 	<comment></comment>
 	<projects>
 	</projects>
